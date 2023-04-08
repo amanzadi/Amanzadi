@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am excited about complex interdisciplinary problems in Biomedicine that can be tackled with learning-based systems. I am especially interested in the application of Graph Neural Networks (GNN) in biomedical research. Currently, my research focuses on identifying safe drug combinations for complex diseases with no standard treatments by integrating Systems Medicine and Deep Learning. I am presently a Clinical Data Scientist at the Unit of Computational Medicine at Karolinska Institute (KI) and Karolinska University Hospital (KUH). I am currently seeking PhD positions in the areas of Machine Learning and Drug Discovery & Development.
 
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amanzadi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amanzadi) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanzadi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amanzadi) 
@@ -16,8 +18,6 @@ I am excited about complex interdisciplinary problems in Biomedicine that can be
 ---
 [![](https://visitcount.itsvg.in/api?id=amanzadi&icon=1&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amanzadi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amanzadi) 
-
+ 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
